@@ -17,3 +17,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Build and run dev server
 
 Run `npm build:dev` to build the project and run a local server using lite-server package.
+
+## PSPDFKit License Key
+
+You must receive a trail license key from the PSPDFKit website (https://pspdfkit.com/try/),
+after you've received your key
+Open the pdf-viewer.component.ts file and replace the licenseKey value with your key.
